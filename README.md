@@ -1,15 +1,15 @@
-# Image Editing App
+# 🎨 Image Editing App
 
 This is a simple image editing app built with Streamlit. Users can upload images, perform basic operations like resizing, rotating, and flipping, apply color manipulation and filter effects, detect faces in images, and draw on images.
 
 ## Features
 
-- Upload and display images
-- Basic image operations (resize, rotate, flip)
-- Color manipulation (brightness adjustment)
-- Filter effects (grayscale)
-- Object detection (face detection)
-- Drawing feature
+- 📷 Upload and display images
+- 🔧 Basic image operations (resize, rotate, flip)
+- 🌈 Color manipulation (brightness adjustment)
+- 🎨 Filter effects (grayscale)
+- 👀 Object detection (face detection)
+- ✏️ Drawing feature
 
 ## How to Run
 
